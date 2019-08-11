@@ -1,0 +1,22 @@
+{
+  "name": "searchsong",
+  "version": "1.0.0",
+  "description": "searches song, gets data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrars/searchSong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrars/searchSong/issues"
+  },
+  "homepage": "https://github.com/barrars/searchSong#readme",
+  "dependencies": {
+    "simple-get": "^3.0.3"
+  }
+}
