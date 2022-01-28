@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/barrars/searchSong#readme",
   "dependencies": {
-    "simple-get": "^3.0.3"
+    "simple-get": "^4.0.1"
   }
 }
